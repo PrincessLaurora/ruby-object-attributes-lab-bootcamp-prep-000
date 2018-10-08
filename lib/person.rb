@@ -1,2 +1,2 @@
 class Person
-  name= 
+  name= (person_name)
